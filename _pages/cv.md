@@ -48,13 +48,28 @@ Skills
 * Software Skill
   * Proficient at MATLAB, STK, Origin, Office, LaTeX
 
+Activities
+======
+* Student Chair of IEEE ComSoc Harbin Chapter, Mar. 2018 - Present
+* Presiden of Student Union, Sep. 2016 - Jul. 2017
+
+Prizes
+=====
+* National Scholarship
+* Merit Student of Heilongjiang Province
+* HIT Outstanding Graduates
+* HIT Model Student
+* HIT Merit Student
+* HIT Excellent League Member
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -70,3 +85,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
