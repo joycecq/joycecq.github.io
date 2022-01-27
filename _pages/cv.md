@@ -16,6 +16,11 @@ Education
 
 Research experience
 ======
+* Dec. 2021 - Present: Future Communications Programme testbed
+  * Singapore Universit of Technology and Design
+  * Position: Visiting research student
+  * Supervisor: Prof. Tony Quek
+
 * Jan. 2019 - Present: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-Earth Multi-beam
   * Harbin Institute of Technology
   * Duties included: Network architecture, resource allocation and user scheduling
@@ -24,12 +29,17 @@ Research experience
 * Dec. 2020 - Present: China-Chile ICT Joint Laboratory for The Belt and Road Initiatives
   * Harbin Institute of Technology
   * Duties included: Routing algorithm in 5G mobile piggyback network
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Meng
+
+* Jul. 2021 - Present: Simulation of Planning GeeSat 5 System
+  * Harbin Institute of Technology
+  * Duties included: Routing algorithm in satellite network, STK simulation, capacity analysis
+  *  Supervisor: Prof. Meng
   
 Skills
 ======
 * Skill 1
-* Skill 2
+* English Skill
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
