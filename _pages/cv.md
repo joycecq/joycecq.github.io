@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information and Communication Engineering, Harbin Institute of Technology, 2018
+* Ph.D in Information and Communication Engineering, Harbin Institute of Technology, 2023 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
+* Jan. 2019 - Dec. 2022: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-earth Multi-beam
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
