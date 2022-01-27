@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* Dec. 2021 - Present: Future Communications Programme testbed
+* Dec. 2021 - Present: Future Communications Programme Testbed
   * Singapore Universit of Technology and Design
   * Position: Visiting research student
   * Supervisor: Prof. Tony Quek
@@ -38,12 +38,13 @@ Research experience
   
 Skills
 ======
-* Skill 1
 * English Skill
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * IELTS: 7.0
+  * GRE: 329
+  * CET-4: 607
+  * CET-6: 551
+  * CET-4: 607
+
 
 Publications
 ======
