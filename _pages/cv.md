@@ -16,14 +16,14 @@ Education
 
 Research experience
 ======
-* Jan. 2019 - Dec. 2022: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-earth Multi-beam
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2019 - Present: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-Earth Multi-beam
+  * Harbin Institute of Technology
+  * Duties included: Network architecture, resource allocation and user scheduling
+  * Supervisor: Prof. Meng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Dec. 2020 - Present: China-Chile ICT Joint Laboratory for The Belt and Road Initiatives
+  * Harbin Institute of Technology
+  * Duties included: Routing algorithm in 5G mobile piggyback network
   * Supervisor: Professor Hub
   
 Skills
