@@ -43,7 +43,10 @@ Skills
   * GRE: 329
   * CET-4: 607
   * CET-6: 551
-  * CET-4: 607
+* Financial Skill
+  * Passing the professional stage of the national uniform CPA examination of P.R. China
+* Software Skill
+  * Proficient at MATLAB, STK, Origin, Office, LaTeX
 
 
 Publications
