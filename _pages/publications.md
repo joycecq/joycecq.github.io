@@ -23,7 +23,7 @@ Author: **Q. Chen**, S. Li, W. Meng and C. Li
 ## - A Clustering-Routing Method to Preprocess Data for Massive Internet of Things
 *Accepted by 2022 IEEE International Conference on Communications (ICC)*
 
-Author: C. He, **G. Qu**, Q. Chen and W. Meng
+Author: C. He, G. Qu, **Q. Chen** and W. Meng
 
 
 ## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture design and coverage analysis
