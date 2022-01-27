@@ -20,9 +20,10 @@ author_profile: true
 Author: Q. Chen, S. Li, W. Meng and C. Li
 
 ## - Service-Oriented Fair Resource Allocation and Auction for Civil Aircrafts Augmented Space-Air-Ground Integrated Networks
-*Published on IEEE Transactions on Vehicular Technology, Nov. 2020
+*Published on IEEE Transactions on Vehicular Technology, Nov. 2020*
+
 Author: Q. Chen, W. Meng, S. Han and C. Li
 
 ## - Reinforcement Learning-Based Energy-Efficient Data Access for Airborne Users in Civil Aircrafts-Enabled SAGIN
-*Published on IEEE Transactions on Green Communications and Networking, Jun. 2021
+*Published on IEEE Transactions on Green Communications and Networking, Jun. 2021*
 Author: Q. Chen, W. Meng, S. Han, C. Li and H. -H. Chen
