@@ -20,6 +20,13 @@ author_profile: true
 
 Author: **Q. Chen**, S. Li, W. Meng and C. Li
 
+[1]	Shuxun Li, Qian Chen, Weixiao Meng and Cheng Li. Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond[J]. IEEE Wireless Communications Magazine, accepted.
+
+## - Civil aircraft assisted space-air-ground integrated networks: Architecture design and coverage analysis
+*Published on China Communications, Jan. 2022*
+
+Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
+
 ## - Civil Aircrafts Augmented Space-Air-Ground Integrated Vehicular Networks: Motivation, Breakthrough and Challenges
 *Published on IEEE Internet of Things Journal, Early Access*
 
