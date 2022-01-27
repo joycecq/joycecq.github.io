@@ -26,7 +26,7 @@ Author: **Q. Chen**, S. Li, W. Meng and C. Li
 Author: C. He, **G. Qu**, Q. Chen and W. Meng
 
 
-## - Civil aircraft assisted space-air-ground integrated networks: Architecture design and coverage analysis
+## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture design and coverage analysis
 *Published on China Communications, Jan. 2022*
 
 Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
