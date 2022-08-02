@@ -14,6 +14,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+## - Resource Allocation in Vehicle-Aided MIoT: How to Enhance Energy Efficiency in Packet Uploading?
+*Accepted by 2022 IEEE Global Communications Conference (GLOBECOM)*
+
+Author: G. Qu, C. He, **Q. Chen** and W. Meng
+
 ## - Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN 
 *Accepted by IEEE Transactions on Communications*
 
