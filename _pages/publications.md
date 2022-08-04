@@ -20,7 +20,7 @@ author_profile: true
 Author: G. Qu, C. He, **Q. Chen** and W. Meng
 
 ## - Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN 
-*Accepted by IEEE Transactions on Communications*
+*Published on IEEE Transactions on Communications, Early Access*
 
 Author: **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen
 
@@ -41,12 +41,12 @@ Author: C. He, G. Qu, **Q. Chen** and W. Meng
 Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
 
 ## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond
-*Accepted by IEEE Wireless Communications Magazine*
+*Published on IEEE Wireless Communications Magazine, Early Access*
 
 Author: S. Li, **Q. Chen**, W. Meng and C. Li
 
 ## - Civil Aircrafts Augmented Space-Air-Ground Integrated Vehicular Networks: Motivation, Breakthrough and Challenges
-*Published on IEEE Internet of Things Journal, Early Access*
+*Published on IEEE Internet of Things Journal, 2022*
 
 Author: **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen
 
