@@ -25,12 +25,12 @@ Author: G. Qu, C. He, **Q. Chen** and W. Meng
 Author: **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen
 
 ## - Capacity Analysis of Civil Aircraft in SAGIN
-*Accepted by 2022 IEEE International Conference on Communications (ICC)*
+*Published on 2022 IEEE International Conference on Communications (ICC)*
 
 Author: **Q. Chen**, S. Li, W. Meng and C. Li
 
 ## - A Clustering-Routing Method to Preprocess Data for Massive Internet of Things
-*Accepted by 2022 IEEE International Conference on Communications (ICC)*
+*Published on 2022 IEEE International Conference on Communications (ICC)*
 
 Author: C. He, G. Qu, **Q. Chen** and W. Meng
 
@@ -66,6 +66,6 @@ Author: **Q. Chen**, W. Meng, S. Han and C. Li
 Author: **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen
 
 ## - Air-Ground Cooperative Access Control Algorithm Based on Q-Learning
-*Accepted by 2020 International Conference on Computing, Networking and Communications (ICNC)*
+*Published on 2020 International Conference on Computing, Networking and Communications (ICNC)*
 
 Author: **Q. Chen**, X. He and W. Meng
