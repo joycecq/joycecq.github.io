@@ -55,6 +55,8 @@ Activities
 
 Prizes
 =====
+* Award for Internship in International organizations
+* CSC Scholarship
 * Huawei Scholarship
 * National Scholarship
 * Merit Student of Heilongjiang Province
@@ -64,8 +66,6 @@ Prizes
 * HIT Excellent League Member
 
 
-Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
