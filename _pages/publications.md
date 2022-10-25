@@ -17,32 +17,21 @@ author_profile: true
 Published Journals
 ==
 
- \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, 2022, Accepted.
-
- \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
- 
- \[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
-
-
-\[<font color = "red">IoTJ</font>\] **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen, "Civil Aircrafts Augmented Space–Air–Ground-Integrated Vehicular Networks: Motivation, Breakthrough, and Challenges," *IEEE Internet of Things Journal*, vol. 9, no. 8, pp. 5670-5683, Apr., 2022.
-
-\[<font color = "red">MobNeT</font>\] **Q. Chen**, W. Meng and C. He, "Graph-Based Resource Allocation for Air-Ground Integrated Networks," *Mobile Networks and Applications*, vol. 27, no. 1, pp. 492-501, Apr. 2022.
-
- \[<font color = "red">CCOM</font>\] S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li, "Civil aircraft assisted space-air-ground integrated networks: Architecture design and coverage analysis," *China Communications*, vol. 19, no. 1, pp. 29-39, Jan. 2022.
-
- \[<font color = "red">TGCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Reinforcement Learning-Based Energy-Efficient Data Access for Airborne Users in Civil Aircrafts-Enabled SAGIN," *IEEE Transactions on Green Communications and Networking*, vol. 5, no. 2, pp. 934-949, Jun. 2021.
- 
- \[<font color = "red">TVT</font>\] **Q. Chen**, W. Meng, S. Han and C. Li, "Service-Oriented Fair Resource Allocation and Auction for Civil Aircrafts Augmented Space-Air-Ground Integrated Networks," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 13658-13672, Nov. 2020.
+1. \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, 2022, Accepted.
+2. \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
+3. \[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
+4. \[<font color = "red">IoTJ</font>\] **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen, "Civil Aircrafts Augmented Space–Air–Ground-Integrated Vehicular Networks: Motivation, Breakthrough, and Challenges," *IEEE Internet of Things Journal*, vol. 9, no. 8, pp. 5670-5683, Apr., 2022.
+5. \[<font color = "red">MobNeT</font>\] **Q. Chen**, W. Meng and C. He, "Graph-Based Resource Allocation for Air-Ground Integrated Networks," *Mobile Networks and Applications*, vol. 27, no. 1, pp. 492-501, Apr. 2022.
+6. \[<font color = "red">CCOM</font>\] S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture Design and Coverage Analysis," *China Communications*, vol. 19, no. 1, pp. 29-39, Jan. 2022.
+7. \[<font color = "red">TGCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Reinforcement Learning-Based Energy-Efficient Data Access for Airborne Users in Civil Aircrafts-Enabled SAGIN," *IEEE Transactions on Green Communications and Networking*, vol. 5, no. 2, pp. 934-949, Jun. 2021.
+8. \[<font color = "red">TVT</font>\] **Q. Chen**, W. Meng, S. Han and C. Li, "Service-Oriented Fair Resource Allocation and Auction for Civil Aircrafts Augmented Space-Air-Ground Integrated Networks," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 13658-13672, Nov. 2020.
 
 
 
 Published Conference Papers
 ==
 
- \[<font color = "red">GLOBECOM'2022</font>\] G. Qu, C. He, **Q. Chen**, W. Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*, 2022, Accepted.
- 
- \[<font color = "red">ICC'2022</font>\] **Q. Chen**, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
-
-\[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
-
-\[<font color = "red">ICNC'2020</font>\] **Q. Chen**, X. He and W. Meng, "Air-Ground Cooperative Access Control Algorithm Based on Q-Learning," in *Proc. IEEE International Conference on Computing, Networking and Communications (ICNC)*, Big Island, HI, USA, Feb. 2020, pp. 461-465.
+1. \[<font color = "red">GLOBECOM'2022</font>\] G. Qu, C. He, **Q. Chen**, W. Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*, 2022, Accepted.
+2. \[<font color = "red">ICC'2022</font>\] **Q. Chen**, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
+3. \[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
+4. \[<font color = "red">ICNC'2020</font>\] **Q. Chen**, X. He and W. Meng, "Air-Ground Cooperative Access Control Algorithm Based on Q-Learning," in *Proc. IEEE International Conference on Computing, Networking and Communications (ICNC)*, Big Island, HI, USA, Feb. 2020, pp. 461-465.
