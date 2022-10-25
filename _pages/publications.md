@@ -21,26 +21,19 @@ Published Papers
 
  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
 
-\[<font color = "red">ICC'2022</font>\] Q. Chen, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
+\[<font color = "red">ICC'2022</font>\] **Q. Chen**, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
 
 
 \[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 
 
-## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture design and coverage analysis
-*Published on China Communications, Jan. 2022*
+ \[<font color = "red">CCOM</font>\] S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li, "Civil aircraft assisted space-air-ground integrated networks: Architecture design and coverage analysis," *China Communications*, vol. 19, no. 1, pp. 29-39, Jan. 2022.
 
-Author: S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li
 
-## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond
-*Published on IEEE Wireless Communications Magazine, Early Access*
+\[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
 
-Author: S. Li, **Q. Chen**, W. Meng and C. Li
+\[<font color = "red">IoTJ</font>\] **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen, "Civil Aircrafts Augmented Space–Air–Ground-Integrated Vehicular Networks: Motivation, Breakthrough, and Challenges," *IEEE Internet of Things Journal*, vol. 9, no. 8, pp. 5670-5683, Apr., 2022.
 
-## - Civil Aircrafts Augmented Space-Air-Ground Integrated Vehicular Networks: Motivation, Breakthrough and Challenges
-*Published on IEEE Internet of Things Journal, Apr. 2022*
-
-Author: **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen
 
 ## - Graph-Based Resource Allocation for Air-Ground Integrated Networks
 *Published on Mobile Networks and Applications, 2021*
