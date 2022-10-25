@@ -35,3 +35,16 @@ Published Conference Papers
 2. \[<font color = "red">ICC'2022</font>\] **Q. Chen**, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
 3. \[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 4. \[<font color = "red">ICNC'2020</font>\] **Q. Chen**, X. He and W. Meng, "Air-Ground Cooperative Access Control Algorithm Based on Q-Learning," in *Proc. IEEE International Conference on Computing, Networking and Communications (ICNC)*, Big Island, HI, USA, Feb. 2020, pp. 461-465.
+
+
+Patent Authroized
+==
+
+1. 孟维晓，**陈倩**，李殊勋，李阳. 空天地融合网络中最小化传输时延的用户接入方法及装置. 授权号：ZL 202110615508.2. (W. Meng, **Q. Chen**, S. Li and Y. Li, "User Access Methods and Apparatus for Minimizing Transmission Delay in Civil Aircraft-Augmented SAGIN," Patent authorized, ZL 202110615508.2.)
+
+Patent Pending
+==
+1. 孟维晓，李丽锦，**陈倩**. 空天地网络中最小化传输时延的预判决路由方案. 受理号：202210552378.7. (W. Meng, L. Li, **Q. Chen**, "Pre-Judgment Routing Scheme for Minimizing Transmission Delay in Civil Aircraft-Augmented SAGIN," Patent pending, no. 202210552378.7.)
+2. 何晨光，曲冠桥，**陈倩**，陈舒怡，孟维晓，杨宇. 一种面向海量节点的大规模自组网分簇组网方法. 受理号：202210687731.2. (C. He, G. Qu, **Q. Chen**, S. Chen, W. Meng, Y. Yang, "A clustering method for massive nodes in the large-scale ad hoc network," Patent pending, no. 202210687731.2.)
+3. 孟维晓，**陈倩**，温容慧，李殊勋. 空基网中飞机乘客多层网络数据访问方案. 受理号：202110473088.9. (W. Meng, **Q. Chen**, R. Wen and S. Li, "Multi-Layer Data Access Scheme for Aircraft Passengers in Civil Aircraft-Augmented SAGIN," Patent pending, no. 202110473088.9.)
+4. 孟维晓，李殊勋，李瑞恩，**陈倩**，李阳，何晓琳. 一种广域空基无线通信网络架构. 受理号：202010167376.7. (W. Meng, S. Li, R. Li, **Q. Chen**, Y. Li and X. He, "A Wide-Area Space-Based Wireless Communication Network Architecture," Patent pending, no. 202010167376.7.)
