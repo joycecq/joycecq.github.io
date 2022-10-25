@@ -14,25 +14,17 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-## - Resource Allocation in Vehicle-Aided MIoT: How to Enhance Energy Efficiency in Packet Uploading?
-*Accepted by 2022 IEEE Global Communications Conference (GLOBECOM)*
+Published Papers 
+==
 
-Author: G. Qu, C. He, **Q. Chen** and W. Meng
+ \[<font color = "red">GLOBECOM'2022</font>\] G. Qu, C. He, **Q. Chen**, W. Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*. 2022. Accepted.
 
-## - Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN 
-*Published on IEEE Transactions on Communications, Aug. 2022*
+ \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
 
-Author: **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen
+\[<font color = "red">ICC'2022</font>\] Q. Chen, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
 
-## - Capacity Analysis of Civil Aircraft in SAGIN
-*Published on 2022 IEEE International Conference on Communications (ICC)*
 
-Author: **Q. Chen**, S. Li, W. Meng and C. Li
-
-## - A Clustering-Routing Method to Preprocess Data for Massive Internet of Things
-*Published on 2022 IEEE International Conference on Communications (ICC)*
-
-Author: C. He, G. Qu, **Q. Chen** and W. Meng
+\[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 
 
 ## - Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture design and coverage analysis
