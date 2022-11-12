@@ -14,27 +14,7 @@ Education
 * B.S. in Information and Communication Engineering, Harbin Institute of Technology, 2018
 * Ph.D in Information and Communication Engineering, Harbin Institute of Technology, 2023 (expected)
 
-Research experience
-======
-* Dec. 2021 - Present: Future Communications Programme Testbed
-  * Singapore University of Technology and Design (SUTD)
-  * Position: Visiting research student
-  * Supervisor: Prof. Tony Q.S. Quek
 
-* Jan. 2019 - Present: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-Earth Multi-beam
-  * Harbin Institute of Technology (HIT)
-  * Duties included: Network architecture, resource allocation and user scheduling
-  * Supervisor: Prof. Weixiao Meng
-
-* Dec. 2020 - Present: China-Chile ICT Joint Laboratory for The Belt and Road Initiatives
-  * Harbin Institute of Technology (HIT)
-  * Duties included: Routing algorithm in 5G mobile piggyback network
-  * Supervisor: Prof. Weixiao Meng
-
-* Jul. 2021 - Present: Simulation of Planning GeeSat 5 System
-  * Harbin Institute of Technology
-  * Duties included: Routing algorithm in satellite network, STK simulation, capacity analysis
-  *  Supervisor: Prof. Weixiao Meng
   
 Skills
 ======
