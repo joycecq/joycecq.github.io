@@ -1,16 +1,13 @@
 ---
 permalink: /projects/
-<!---
-# title: "Research Projects"
--->
+title: "Research Projects"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-Research Projects
-==
+
 
 * Dec. 2021 - Present: Future Communications Programme Testbed
   * Singapore University of Technology and Design (SUTD)
