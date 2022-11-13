@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-Research Projects
-==
 
 * Dec. 2021 - Present: Future Communications Programme Testbed
   * Singapore University of Technology and Design (SUTD)
