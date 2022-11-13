@@ -17,14 +17,15 @@ author_profile: true
 Published Journals
 ==
 
-1. \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, 2022, Accepted.
-2. \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
-3. \[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
-4. \[<font color = "red">IoTJ</font>\] **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen, "Civil Aircrafts Augmented Space–Air–Ground-Integrated Vehicular Networks: Motivation, Breakthrough, and Challenges," *IEEE Internet of Things Journal*, vol. 9, no. 8, pp. 5670-5683, Apr., 2022.
-5. \[<font color = "red">MobNeT</font>\] **Q. Chen**, W. Meng and C. He, "Graph-Based Resource Allocation for Air-Ground Integrated Networks," *Mobile Networks and Applications*, vol. 27, no. 1, pp. 492-501, Apr. 2022.
-6. \[<font color = "red">CCOM</font>\] S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture Design and Coverage Analysis," *China Communications*, vol. 19, no. 1, pp. 29-39, Jan. 2022.
-7. \[<font color = "red">TGCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Reinforcement Learning-Based Energy-Efficient Data Access for Airborne Users in Civil Aircrafts-Enabled SAGIN," *IEEE Transactions on Green Communications and Networking*, vol. 5, no. 2, pp. 934-949, Jun. 2021.
-8. \[<font color = "red">TVT</font>\] **Q. Chen**, W. Meng, S. Han and C. Li, "Service-Oriented Fair Resource Allocation and Auction for Civil Aircrafts Augmented Space-Air-Ground Integrated Networks," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 13658-13672, Nov. 2020.
+1.  \[<font color = "red">TCCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Effect of Intelligent Multi-Association in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Cognitive Communications and Networking*, 2022, Accepted.
+2.  \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, 2022, Accepted.
+3. \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
+4. \[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
+5. \[<font color = "red">IoTJ</font>\] **Q. Chen**, W. Meng, S. Li, C. Li and H. -H. Chen, "Civil Aircrafts Augmented Space–Air–Ground-Integrated Vehicular Networks: Motivation, Breakthrough, and Challenges," *IEEE Internet of Things Journal*, vol. 9, no. 8, pp. 5670-5683, Apr., 2022.
+6. \[<font color = "red">MobNeT</font>\] **Q. Chen**, W. Meng and C. He, "Graph-Based Resource Allocation for Air-Ground Integrated Networks," *Mobile Networks and Applications*, vol. 27, no. 1, pp. 492-501, Apr. 2022.
+7. \[<font color = "red">CCOM</font>\] S. Li, **Q. Chen**, Z. Li, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: Architecture Design and Coverage Analysis," *China Communications*, vol. 19, no. 1, pp. 29-39, Jan. 2022.
+8. \[<font color = "red">TGCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Reinforcement Learning-Based Energy-Efficient Data Access for Airborne Users in Civil Aircrafts-Enabled SAGIN," *IEEE Transactions on Green Communications and Networking*, vol. 5, no. 2, pp. 934-949, Jun. 2021.
+9. \[<font color = "red">TVT</font>\] **Q. Chen**, W. Meng, S. Han and C. Li, "Service-Oriented Fair Resource Allocation and Auction for Civil Aircrafts Augmented Space-Air-Ground Integrated Networks," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 13658-13672, Nov. 2020.
 
 
 
