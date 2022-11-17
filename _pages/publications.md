@@ -17,7 +17,7 @@ author_profile: true
 Published Journals
 ==
 
-1.  \[<font color = "red">TCCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Effect of Intelligent Multi-Association in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Cognitive Communications and Networking*, 2022, Accepted.
+1.  \[<font color = "red">TCCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Effect of Intelligent Multi-Association in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Cognitive Communications and Networking*, 2022, doi: 10.1109/TCCN.2022.3222840.
 2.  \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, 2022, Accepted.
 3. \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Robust Task Scheduling for Delay-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5368-5385, Aug. 2022.
 4. \[<font color = "red">WCM</font>\] S. Li, **Q. Chen**, W. Meng and C. Li, "Civil Aircraft Assisted Space-Air-Ground Integrated Networks: An Innovative NTN of 5G and Beyond," *IEEE Wireless Communications*, vol. 29, no. 4, pp. 64-71, Aug. 2022.
