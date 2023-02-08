@@ -32,7 +32,7 @@ Published Journals
 Published Conference Papers
 ==
 
-1. \[<font color = "red">GLOBECOM'2022</font>\] G. Qu, C. He, **Q. Chen**, W. Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*, Rio de Janeiro, Brazil, Dec. 2022, pp. 6247-6252.
+1. \[<font color = "red">GLOBECOM'2022</font>\] G. Qu, C. He, **Q. Chen**, W. Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," in *Proc. 2022 IEEE Global Communications Conference (Globecom)*, Rio de Janeiro, Brazil, Dec. 2022, pp. 6247-6252.
 2. \[<font color = "red">ICC'2022</font>\] **Q. Chen**, S. Li, W. Meng and C. Li, "Capacity Analysis of Civil Aircraft in SAGIN," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1877-1882.
 3. \[<font color = "red">ICC'2022</font>\] C. He, G. Qu, **Q. Chen**, W. Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 4. \[<font color = "red">ICNC'2020</font>\] **Q. Chen**, X. He and W. Meng, "Air-Ground Cooperative Access Control Algorithm Based on Q-Learning," in *Proc. IEEE International Conference on Computing, Networking and Communications (ICNC)*, Big Island, HI, USA, Feb. 2020, pp. 461-465.
