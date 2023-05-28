@@ -17,7 +17,7 @@ author_profile: true
 Published Journals
 ==
 
-1.  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and T. Q. S. Quek, "Coverage Analysis of SAGIN With Sectorized Beam Pattern Under Shadowed-Rician Fading Channels," *IEEE Transactions on Communications*, 2023, Accepted.
+1.  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and T. Q. S. Quek, "Coverage Analysis of SAGIN With Sectorized Beam Pattern Under Shadowed-Rician Fading Channels," *IEEE Transactions on Communications*, Early Access, 2023, doi: 10.1109/TCOMM.2023.3280219.
 2.  \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, vol. 41, no. 2, pp. 399-417, Feb. 2023.
 3.  \[<font color = "red">COMMAG</font>\] G. Qu, C. He, **Q. Chen** and W. Meng, "Tactical Data-Oriented Decentralized Communication Scheme in Vehicle-Assisted Networks: Challenges and Solutions," *IEEE Communications Magazine*, Early Access, 2023, doi: 10.1109/MCOM.001.2200793.
 4.  \[<font color = "red">TCCN</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and H. -H. Chen, "Effect of Intelligent Multi-Association in Civil Aircraft-Augmented SAGIN," *IEEE Transactions on Cognitive Communications and Networking*, vol. 9, no. 1, pp. 223-238, Feb. 2023.
