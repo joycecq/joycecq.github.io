@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information and Communication Engineering, Harbin Institute of Technology, 2018
-* Ph.D in Information and Communication Engineering, Harbin Institute of Technology, 2023
+* Ph.D. in Information and Communication Engineering, Harbin Institute of Technology, 2023
 
 
   
@@ -30,20 +30,22 @@ Skills
 
 Activities
 ======
-* Student Chair of IEEE ComSoc Harbin Chapter, Mar. 2018 - Present
+* Student Chair of IEEE ComSoc Harbin Chapter, Mar. 2018 - Sep. 2023
 * Presiden of Student Union, Sep. 2016 - Jul. 2017
 
 Prizes
 =====
-* Award for Internship in International organizations
-* CSC Scholarship
-* Huawei Scholarship
-* National Scholarship
-* Merit Student of Heilongjiang Province
-* HIT Outstanding Graduates
-* HIT Model Student
-* HIT Merit Student
-* HIT Excellent League Member
+* Heilongjiang Outstanding Graduate 2023
+* HIT Outstanding Graduate 2023
+* Postgraduate National Scholarship 2022
+* Award for Internship in International organizations 2022
+* CSC Scholarship 2021
+* Huawei Scholarship 2021
+* Merit Student of Heilongjiang Province 2016 & 2017
+* HIT Outstanding Graduate 2018
+* HIT Model Student 2014-2018
+* HIT Merit Student 2014-2018
+* HIT Excellent League Member 2014-2018
 
 
   <ul>{% for post in site.publications %}
