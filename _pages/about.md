@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Qian (Joyce) Chen's home on the web!
-- She received the B.E. degree in electronic and information engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2018, where she is currently pursuing the Ph.D. degree with the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/), supervised by Prof. [Weixiao Meng](http://homepage.hit.edu.cn/mengweixiao). 
-- She was a visiting student with the Information Systems Technology and Design (ISTD), [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/), Singapore, from December 2021 to December 2022, supervised by Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/).
-- Her current research interests include performance analysis, resource allocation, Internet of Things, mobile edge computing, space-air-ground integrated networks. 
-- She is currently the student chair of IEEE ComSoc Harbin Chapter.
+This is Qian Chen's home on the web!
+- I am a postdoctoral research fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU) working with Prof. [Kaibin Huang](https://www.eee.hku.hk/~huangkb/) and Dr. [Xianhao Chen](http://xianhaochen.net/).
+- Before HKU, I received my B.E. and Ph.D. degree in Information and Communication Engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2018 and 2023, respectively. During the doctoral program, I was supervised by Prof. [Weixiao Meng](http://homepage.hit.edu.cn/mengweixiao). 
+- I was a visiting student with the Information Systems Technology and Design (ISTD), [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/), Singapore, from December 2021 to December 2022, supervised by Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/).
+- I was the student chair of IEEE ComSoc Harbin Chapter from 2017 to 2023.
+- My current research interests include performance analysis, resource allocation, Internet of Things, edge intelligence, space-air-ground integrated networks (SAGIN). 
+
