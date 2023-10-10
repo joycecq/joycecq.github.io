@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian (Joyce) Chen"
+title                    : "Qian Chen"
 title_separator          : "-"
-name                     : &name "Qian (Joyce) Chen"
-description              : &description "PhD Student"
+name                     : &name "Qian Chen"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://joycecq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joycecq.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joyce Chen"
+  name             : "Qian Chen"
   avatar           : "Photo_CHEN QIAN.jpg"
-  bio              : "PhD Student"
-  location         : "Harbin Institute of Technology"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "The University of Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "joycecqcq@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=BTkccMIAAAAJ&hl=zh-CN&citsig=ADuiNO0wyrepnu1RqTXCB7VeNTc1"
+  email            : "chenqian@eee.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
