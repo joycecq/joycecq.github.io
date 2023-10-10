@@ -12,7 +12,7 @@ redirect_from:
 * Dec. 2021 - Dec. 2022: Future Communications Programme Testbed
   * Singapore University of Technology and Design (SUTD)
   * Position: Visiting research student
-  * Supervisor: Prof. Tony Q.S. Quek
+  * Supervisor: Prof. Tony Q. S. Quek
 
 
 * Jan. 2021 - Present: China-Chile ICT "The Belt and Road" Joint Laboratory Construction
