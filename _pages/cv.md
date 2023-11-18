@@ -43,6 +43,7 @@ Prizes
 * Huawei Scholarship 2021
 * Merit Student of Heilongjiang Province 2016 & 2017
 * HIT Outstanding Graduate 2018
+* Undergraduate National Scholarship 2017
 * HIT Model Student 2014-2018
 * HIT Merit Student 2014-2018
 * HIT Excellent League Member 2014-2018
