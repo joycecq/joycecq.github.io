@@ -17,7 +17,7 @@ author_profile: true
 Published Journals
 ==
 
-1.  \[<font color = "red">JCIN</font>\] **Q. Chen**, W. Meng, S. Han, and C. Li, "Spatio-Temporal Service Analysis in Multi-Layer Non-Terrestrial Networks," *Journal of Communications and Information Networks*, accepted, 2024.
+1.  \[<font color = "red">JCIN</font>\] **Q. Chen**, W. Meng, S. Han, and C. Li, "Spatio-Temporal Service Analysis in Multi-Layer Non-Terrestrial Networks," *Journal of Communications and Information Networks*,  vol. 9, no. 1, pp. 43-55, Mar. 2024.
 2.  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and T. Q. S. Quek, "Coverage Analysis of SAGIN With Sectorized Beam Pattern Under Shadowed-Rician Fading Channels," *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4988-5004, Aug. 2023.
 3.  \[<font color = "red">JSAC</font>\] **Q. Chen**, W. Meng, T. Q. S. Quek and S. Chen, "Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN," *IEEE Journal on Selected Areas in Communications*, vol. 41, no. 2, pp. 399-417, Feb. 2023.
 4.  \[<font color = "red">COMMAG</font>\] G. Qu, C. He, **Q. Chen** and W. Meng, "Tactical Data-Oriented Decentralized Communication Scheme in Vehicle-Assisted Networks: Challenges and Solutions," *IEEE Communications Magazine*,  vol. 62, no. 1, pp. 56-61, Jan. 2024.
