@@ -17,7 +17,7 @@ author_profile: true
 Published Journals
 ==
 
-1.  \[<font color = "red">arXiv</font>\] Q. Chen, Z. Guo, W. Meng, S. Han, C. Li, and T. Q. S. Quek, "A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN," *IEEE Communications Surveys & Tutorials*, minor revision, [URL](https://arxiv.org/abs/2403.17400).
+1.  \[<font color = "red">arXiv</font>\] **Q. Chen**, Z. Guo, W. Meng, S. Han, C. Li, and T. Q. S. Quek, "A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN," *IEEE Communications Surveys & Tutorials*, minor revision, [URL](https://arxiv.org/abs/2403.17400).
 2.  \[<font color = "red">arXiv</font>\] G. Qu, Z. Lin, **Q. Chen**, J. Li, F. Liu, X. Chen*, K. Huang, "TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading," *IEEE/ACM Transactions on Networking*, under review, [url](https://arxiv.org/abs/2404.14204).
 3.  \[<font color = "red">JCIN</font>\] **Q. Chen**, W. Meng, S. Han, and C. Li, "Spatio-Temporal Service Analysis in Multi-Layer Non-Terrestrial Networks," *Journal of Communications and Information Networks*,  vol. 9, no. 1, pp. 43-55, Mar. 2024.
 4.  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and T. Q. S. Quek, "Coverage Analysis of SAGIN With Sectorized Beam Pattern Under Shadowed-Rician Fading Channels," *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4988-5004, Aug. 2023.
