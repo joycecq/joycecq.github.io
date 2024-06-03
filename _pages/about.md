@@ -14,6 +14,7 @@ This is Qian Chen's home on the web!
 - I was a visiting student with the Information Systems Technology and Design (ISTD), [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), Singapore, from December 2021 to December 2022, supervised by Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/).
 - I was the student chair of IEEE ComSoc Harbin Chapter from 2017 to 2023.
 - During my doctoral studies, my primary research are performance analysis and resource allocation in space-air-ground integrated networks (SAGIN).
-- Currently, my research focus on the application of edge intelligence in satellite networks.
+- Currently, my research focus on the **edge intelligence in satellite-terrestrial integrated networks**.
+- I am also very interested in financial knowledge and have self-studied to pass all required subjects of the National Uniform **Certified Public Accountant (CPA)** Examination of P.R. China.
 - If you are willing to collaborate with me, please feel free to email me (qchen@eee.hku.hk)!
 
