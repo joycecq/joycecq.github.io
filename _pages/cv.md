@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information and Communication Engineering, Harbin Institute of Technology, 2018
+* B.E. in Information and Communication Engineering, Harbin Institute of Technology, 2018
 * Ph.D. in Information and Communication Engineering, Harbin Institute of Technology, 2023
 
 
