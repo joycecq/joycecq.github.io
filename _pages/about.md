@@ -18,3 +18,6 @@ This is Qian Chen's home on the web!
 - I am also very interested in financial knowledge and have self-studied to pass all required subjects of the National Uniform **Certified Public Accountant (CPA)** Examination of P.R. China.
 - If you are willing to collaborate with me, please feel free to email me (qchen@eee.hku.hk)!
 
+News
+==
+* (Jun 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) was accepted by IEEE COMST.
