@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Qian Chen (陈倩)！
+Hi, I am Qian Chen ( 陈倩 )！
 ==
 - I am a postdoctoral research fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU) working with Prof. [Kaibin Huang](https://www.eee.hku.hk/~huangkb/) and Prof. [Xianhao Chen](http://xianhaochen.net/).
 - Before HKU, I received my B.E. and Ph.D. degree in Information and Communication Engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2018 and 2023, respectively. During the doctoral program, I was supervised by Prof. [Weixiao Meng](http://homepage.hit.edu.cn/mengweixiao). 
