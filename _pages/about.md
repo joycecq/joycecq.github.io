@@ -20,4 +20,5 @@ redirect_from:
 
 News
 ==
-* (Jun 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) was accepted by IEEE COMST.
+* (Jul 2024) Two papers are accepted by IEEE GLOBECOM 2024.
+* (Jun 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) is accepted by IEEE COMST.
