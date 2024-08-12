@@ -18,13 +18,13 @@ redirect_from:
   * Member, IEEE Communications Society
  
 * Journal Paper Reviewers
- * IEEE Journal on Selected Areas in Communications
- * IEEE Transactions on Mobile Computing
- * IEEE Transactions on Wireless Communications
- * IEEE Transactions on Communications
- * IEEE Internet of Things Journal
- * IEEE Transactions on Cognitive Communications and Networking
- * IEEE Antennas and Wireless Propagation Letters
+  * IEEE Journal on Selected Areas in Communications
+  * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Communications
+  * IEEE Internet of Things Journal
+  * IEEE Transactions on Cognitive Communications and Networking
+  * IEEE Antennas and Wireless Propagation Letters
 
 * Conference Paper Reviewers
   * IEEE/CIC International Conference on Communications in China (ICCC'24), Hangzhou, China, Aug. 2024.
