@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Research Projects"
+title: "Services"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,42 +9,28 @@ redirect_from:
 
 
 
-* Dec. 2021 - Dec. 2022: Future Communications Programme Testbed
-  * Singapore University of Technology and Design (SUTD)
-  * Position: Visiting research student
-  * Supervisor: Prof. Tony Q. S. Quek
+* Service in International Conference Organizing Committee
+  * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems
 
-
-* Jan. 2021 - Present: China-Chile ICT "The Belt and Road" Joint Laboratory Construction
-  * National Science and Technology Project
-  * Harbin Institute of Technology (HIT)
-  * Student leader for 5G mobile piggyback network theory and algorithm research
-  * Duties included: Routing algorithm and transmission scheme in 5G mobile piggyback network
-  * Supervisor: Prof. Weixiao Meng
-
-* Jan. 2019 - Present: The Theory of Wide-area Air-based Broadband Wireless Communications and High Throughput Transmission Method of Air-Earth Multi-beam
-  * National Natural Science Foundation of China
-  * Harbin Institute of Technology (HIT)
-  * Student leader for the network architecture design and resource allocation in space-air-ground integrated network (SAGIN)
-  * Duties included: Network architecture, resource allocation and user scheduling
-  * Supervisor: Prof. Weixiao Meng
-
-
-* Jul. 2021 - Dec. 2022: GeeSat 5 Construction Planning and Simulations for Large-Scale Systems
-  * Qingdao Shanghe Enterprise Cooperation Project
-  * Harbin Institute of Technology (HIT)
-  * Student leader of satellite network routing algorithm and simulation
-  * Duties included: Routing algorithm in satellite network, STK simulation, capacity analysis
-  * Supervisor: Prof. Weixiao Meng
   
-  
+* Membership in Professional Societies
+  * Member, Institute of Electrical and Electronics Engineers (IEEE)
+  * Member, IEEE Communications Society
  
-* Nov. 2019-Oct. 2021: Research on Transmission and Network Technology in SAGIN
-  * Hisilicon Enterprise Cooperation Project
-  * Harbin Institute of Technology (HIT)
-  * Student leader of network architecture design and routing scheme design for airbase network
-  * Duties include: Aircraft clustering scheme in the ad-hoc network, verify the performance tradeoff between energy consumption and system latency.
-  * Supervisor: Prof. Weixiao Meng
+* Journal Paper Reviewers
+ * IEEE Journal on Selected Areas in Communications
+ * IEEE Transactions on Mobile Computing
+ * IEEE Transactions on Wireless Communications
+ * IEEE Transactions on Communications
+ * IEEE Internet of Things Journal
+ * IEEE Transactions on Cognitive Communications and Networking
+ * IEEE Antennas and Wireless Propagation Letters
+
+* Conference Paper Reviewers
+  * IEEE/CIC International Conference on Communications in China (ICCC'24), Hangzhou, China, Aug. 2024.
+  * IEEE International Conference on Communications (ICC'22), Seoul, South Korea, May 2022
+  * IEEE Global Communications Conference (GlobeCom'21), Madrid, Spain, Dec. 2021
+
 
 <!---
 ## Locations of key files/directories
