@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Services"
+title: "Professional Services"
 author_profile: true
 redirect_from: 
   - /md/
