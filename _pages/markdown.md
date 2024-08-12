@@ -28,6 +28,7 @@ Professional Services
 
 * Service in International Conference Organizing Committee
   * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems
+  * Student Chair, IEEE ComSoc Harbin Chapter, 2018-2023
 
   
 * Membership in Professional Societies
