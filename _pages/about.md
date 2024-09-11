@@ -20,5 +20,6 @@ redirect_from:
 
 News
 ==
-* (Jul 2024) Two papers are accepted by IEEE GLOBECOM 2024.
-* (Jun 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) is accepted by IEEE COMST.
+* (Aug. 2024) I am honored to be the Publication Chair of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
+* (Jul. 2024) Two papers are accepted by IEEE GLOBECOM 2024.
+* (Jun. 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) is accepted by IEEE COMST.
