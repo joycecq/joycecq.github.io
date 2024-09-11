@@ -15,7 +15,7 @@ Honors and Awards
 * National Scholarship of Graduate Student 2022
 * Internship Scholarships for International Organizations 2022
 * Outstanding Student of Harbin Institute of Technology (6 times in HIT, 2014-2022)
-* Huawei Scholarship 2021}
+* Huawei Scholarship 2021
 * China Scholarship Council 2021
 * Outstanding Graduate of Harbin Institute of Technology 2018
 * Top 10 Students of School of Electronics and Information Engineering 2017
