@@ -50,13 +50,13 @@ Conferences
 Patent Authroized
 ==
 
-1. 孟维晓，**陈倩**，李殊勋，李阳. 空天地融合网络中最小化传输时延的用户接入方法及装置. 授权号：ZL 202110615508.2. (W. Meng, **Q. Chen**, S. Li and Y. Li, "User Access Methods and Apparatus for Minimizing Transmission Delay in Civil Aircraft-Augmented SAGIN," Patent authorized, ZL 202110615508.2.)
+1. 孟维晓，**陈倩**，李殊勋，李阳. 空天地融合网络中最小化传输时延的用户接入方法及装置. 授权号：ZL 202110615508.2.
 
 Patent Pending
 ==
 1. 吴尘雨，**陈倩**，韩帅，孟维晓. 一种空天地一体化网络中基于星间链路的飞机上网方法. 受理号：202410331504.5.
-2. 孟维晓，**陈倩**，陈舒怡，韩帅. 空天融合网络用户接入平台选择方法、装置及用户端. 受理号：202211367294.2. (W. Meng, **Q. Chen**, S. Chen and S. Han, "User-Platform Association Method, Device and Client in Space-Air Integrated Networks," Patent pending, no. 202211367294.2.)
-3. 孟维晓，李丽锦，**陈倩**. 空天地网络中最小化传输时延的预判决路由方案. 受理号：202210552378.7. (W. Meng, L. Li, **Q. Chen**, "Pre-Judgment Routing Scheme for Minimizing Transmission Delay in Civil Aircraft-Augmented SAGIN," Patent pending, no. 202210552378.7.)
-4. 何晨光，曲冠桥，**陈倩**，陈舒怡，孟维晓，杨宇. 一种面向海量节点的大规模自组网分簇组网方法. 受理号：202210687731.2. (C. He, G. Qu, **Q. Chen**, S. Chen, W. Meng and Y. Yang, "A Clustering Method for Massive Nodes in the Large-Scale Ad Hoc Network," Patent pending, no. 202210687731.2.)
-5. 孟维晓，**陈倩**，温容慧，李殊勋. 空基网中飞机乘客多层网络数据访问方案. 受理号：202110473088.9. (W. Meng, **Q. Chen**, R. Wen and S. Li, "Multi-Layer Data Access Scheme for Aircraft Passengers in Civil Aircraft-Augmented SAGIN," Patent pending, no. 202110473088.9.)
-6. 孟维晓，李殊勋，李瑞恩，**陈倩**，李阳，何晓琳. 一种广域空基无线通信网络架构. 受理号：202010167376.7. (W. Meng, S. Li, R. Li, **Q. Chen**, Y. Li and X. He, "A Wide-Area Space-Based Wireless Communication Network Architecture," Patent pending, no. 202010167376.7.)
+2. 孟维晓，**陈倩**，陈舒怡，韩帅. 空天融合网络用户接入平台选择方法、装置及用户端. 受理号：202211367294.2.
+3. 孟维晓，李丽锦，**陈倩**. 空天地网络中最小化传输时延的预判决路由方案. 受理号：202210552378.7.
+4. 何晨光，曲冠桥，**陈倩**，陈舒怡，孟维晓，杨宇. 一种面向海量节点的大规模自组网分簇组网方法. 受理号：202210687731.2. 
+5. 孟维晓，**陈倩**，温容慧，李殊勋. 空基网中飞机乘客多层网络数据访问方案. 受理号：202110473088.9. 
+6. 孟维晓，李殊勋，李瑞恩，**陈倩**，李阳，何晓琳. 一种广域空基无线通信网络架构. 受理号：202010167376.7.
