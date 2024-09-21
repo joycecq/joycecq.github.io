@@ -1,4 +1,4 @@
-¡---
+---
 permalink: /
 title: "Hi, I am Qian Chen ( 陈倩 )！"
 excerpt: "About me"
