@@ -27,10 +27,10 @@ News
 
 ---
 
-<i style="font-family: 'Brush Script MT', cursive;">A ship in harbor is safe, but that is not what ships are built for.</i>
+<i style="font-family: 'Georgia', serif; font-size: 18px; ">A ship in harbor is safe, but that is not what ships are built for.</i>
 
-<div style="text-align: right;">
-    <span style="font-size: small;">— John A. Shedd</span>
+<div style="text-align: right; margin-top: 10px;">
+    <span style="font-size: 16px; font-family: 'Georgia', serif;">— Mahatma Gandhi</span>
 </div>
 
 ---
