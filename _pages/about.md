@@ -1,4 +1,4 @@
----
+¡---
 permalink: /
 title: "Hi, I am Qian Chen ( 陈倩 )！"
 excerpt: "About me"
@@ -23,3 +23,14 @@ News
 * (Aug. 2024) I am honored to be the Publication Chair of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
 * (Jul. 2024) Two papers are accepted by IEEE GLOBECOM 2024.
 * (Jun. 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) is accepted by IEEE COMST (IF=34.4) [News](https://mp.weixin.qq.com/s/YDpSKFCFTgQp5SDKuP6O0g).
+
+
+---
+
+<i style="font-family: 'Brush Script MT', cursive;">A ship in harbor is safe, but that is not what ships are built for.</i>
+
+<div style="text-align: right;">
+    <span style="font-size: small;">— John A. Shedd</span>
+</div>
+
+---
