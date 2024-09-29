@@ -20,6 +20,7 @@ redirect_from:
 
 News
 ==
+* (Sep. 2024) I am honored to be elected as a Youth Editorial Board Member of the [Journal of Information and Intelligence](https://www.sciencedirect.com/journal/journal-of-information-and-intelligence).
 * (Aug. 2024) I am honored to be the Publication Chair of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
 * (Jul. 2024) Two papers are accepted by IEEE GLOBECOM 2024.
 * (Jun. 2024) One [first-author paper](https://arxiv.org/abs/2403.17400) is accepted by IEEE COMST (IF=34.4) [News](https://mp.weixin.qq.com/s/YDpSKFCFTgQp5SDKuP6O0g).
