@@ -36,6 +36,7 @@ Professional Services
   * Member, IEEE Communications Society
  
 * Journal Paper Reviewers
+  * ACM Computing Surveys
   * IEEE Journal on Selected Areas in Communications
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Wireless Communications
