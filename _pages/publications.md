@@ -18,7 +18,7 @@ Journals
 ==
 
 1.  \[<font color = "red">COMST</font>\] **Q. Chen**, Z. Guo, W. Meng, S. Han, C. Li and T. Q. S. Quek, "A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN," *IEEE Communications Surveys & Tutorials*, Early Access, doi: 10.1109/COMST.2024.3421523, [online](https://arxiv.org/abs/2403.17400).
-2.  \[<font color = "red">TCCN</font>\] L. Qiu, **Q. Chen**, S. Chen, W. Meng and C. Li, "Priority-Aware Parallel Transmission Towards Dense Satellite Remote Sensing and Communication Integrated Networks," *IEEE Transactions on Cognitive Communications and Networking*, Accepted, 2024.
+2.  \[<font color = "red">TCCN</font>\] L. Qiu, **Q. Chen**, S. Chen, W. Meng and C. Li, "Priority-Aware Parallel Transmission Towards Dense Satellite Remote Sensing and Communication Integrated Networks," *IEEE Transactions on Cognitive Communications and Networking*, Early Access, doi: 10.1109/TCCN.2024.3487139, 2024.
 3.  \[<font color = "red">arXiv</font>\] C. Wu, S. Han, **Q. Chen**, Y. Wang, W. Meng and A. Benslimane, "Enhancing LEO Mega-Constellations with Inter-Satellite Links: Vision and Challenges," *IEEE Wireless Communications Magazine*, under review, [online](https://arxiv.org/abs/2406.05078).
 4.  \[<font color = "red">arXiv</font>\] G. Qu, Z. Lin, **Q. Chen**, J. Li, F. Liu, X. Chen* and K. Huang, "TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading," *IEEE/ACM Transactions on Networking*, under review, [online](https://arxiv.org/abs/2404.14204).
 5.  \[<font color = "red">JCIN</font>\] **Q. Chen**, W. Meng, S. Han and C. Li, "Spatio-Temporal Service Analysis in Multi-Layer Non-Terrestrial Networks," *Journal of Communications and Information Networks*,  vol. 9, no. 1, pp. 43-55, Mar. 2024.
