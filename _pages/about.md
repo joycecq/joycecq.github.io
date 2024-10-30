@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d73bc88-e693-4c92-8d81-5e51d977027e)---
+---
 permalink: /
 title: "Hi, I am Qian Chen ( 陈倩 )！"
 excerpt: "About me"
