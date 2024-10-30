@@ -15,7 +15,7 @@ redirect_from:
 - During my doctoral studies, my primary research is performance analysis and resource allocation in space-air-ground integrated networks (SAGIN).
 - Currently, my research focuses on the **edge intelligence in satellite-terrestrial integrated networks**.
 - I am also very interested in financial knowledge and have self-studied to pass all required subjects of the National Uniform Certified Public Accountant (CPA) Examination of P.R. China.
-- If you are willing to collaborate with me, please feel free to email me (qchen[AT]eee.hku.hk)!
+- If you are willing to collaborate with me, please feel free to email me (qchen[AT]eee.hku.hk / qian.chen[AT]ieee.org)!
 
 
 News
