@@ -26,14 +26,17 @@ Honors and Awards
 Professional Services
 ==
 
-* Service in International Conference Organizing Committee
-  * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems
+* Academic Services
+  * Youth Editorial Board Member, Journal of Information and Intelligence (JII)
+  * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems (WiSATS 2024)
   * Student Chair, IEEE ComSoc Harbin Chapter, 2018-2023
 
   
 * Membership in Professional Societies
   * Member, Institute of Electrical and Electronics Engineers (IEEE)
   * Member, IEEE Communications Society
+  * Member, China Education Society of Electronics
+  * Member, China Institute of Communications
  
 * Journal Paper Reviewers
   * ACM Computing Surveys
