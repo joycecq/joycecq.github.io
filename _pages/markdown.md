@@ -26,8 +26,10 @@ Honors and Awards
 Professional Services
 ==
 
-* Academic Services
+* Editor
   * Youth Editorial Board Member, Journal of Information and Intelligence (JII)
+
+* Conference/Committee Chairs
   * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems (WiSATS 2024)
   * Student Chair, IEEE ComSoc Harbin Chapter, 2018-2023
 
@@ -46,10 +48,13 @@ Professional Services
   * IEEE Transactions on Communications
   * IEEE Internet of Things Journal
   * IEEE Transactions on Cognitive Communications and Networking
+  * IEEE Transactions on Vehicular Technology
   * IEEE Antennas and Wireless Propagation Letters
+  * Engineering
 
 * Conference Paper Reviewers
-  * IEEE/CIC International Conference on Communications in China (ICCC'24), Hangzhou, China, Aug. 2024.
+  * IEEE International Conference on Communications (ICC'25), Montreal, Canada, Jun. 2025
+  * IEEE/CIC International Conference on Communications in China (ICCC'24), Hangzhou, China, Aug. 2024
   * IEEE International Conference on Communications (ICC'22), Seoul, South Korea, May 2022
   * IEEE Global Communications Conference (GlobeCom'21), Madrid, Spain, Dec. 2021
 
