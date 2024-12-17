@@ -18,7 +18,6 @@ redirect_from:
 
 News
 ==
-* (Nov. 2024) Our HKU EEE team, led by Prof. Kaibin Huang, has secured the [NSFC/RGC CRS grant](https://www.ugc.edu.hk/eng/rgc/funding_opport/nsfc_crs/funded_research/list_award_e2024.html) <font color = "green"> (one of only ten selected in Hong Kong)</font> for developing "Space-ground Fluid AI" in collaboration with Xidian University.
 * (Nov. 2024) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been submitted to <font color = "green">Engineering</font> (Q1)
  for possible publication.
 * (Oct. 2024) It's a great honor to have been invited by Journal of Information and Intelligence to give a talk at Xidian University about my Ph.D. work, Theoretical Performance Analysis and Service Scheduling Method of Space-air Integrated Networks!
