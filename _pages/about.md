@@ -18,6 +18,7 @@ redirect_from:
 
 News
 ==
+* (Dec. 2024) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/abs/2412.17231)", has been submitted to IEEE for possible publication.
 * (Nov. 2024) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been submitted to <font color = "green">Engineering</font> (Q1)
  for possible publication.
 * (Oct. 2024) It's a great honor to have been invited by Journal of Information and Intelligence to give a talk at Xidian University about my Ph.D. work, Theoretical Performance Analysis and Service Scheduling Method of Space-air Integrated Networks!
