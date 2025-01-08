@@ -18,7 +18,7 @@ redirect_from:
 
 News
 ==
-* (Jan. 2024) I received the [excellent doctoral thesis nomination award from China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g) in 2024. 
+* (Jan. 2025) I received the [excellent doctoral thesis nomination award from China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g) in 2024. 
 * (Dec. 2024) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/abs/2412.17231)", has been submitted to IEEE for possible publication.
 * (Nov. 2024) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been submitted to <font color = "green">Engineering</font> (Q1)
  for possible publication.
