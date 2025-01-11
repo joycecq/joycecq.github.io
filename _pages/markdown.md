@@ -10,18 +10,19 @@ redirect_from:
 Honors and Awards
 ==
 
-* Outstanding Graduate of Heilongjiang Province 2023
-* Outstanding Graduate of Harbin Institute of Technology 2023
-* National Scholarship of Graduate Student 2022
-* Internship Scholarships for International Organizations 2022
+* 2024 Excellent Doctoral Thesis Nomination Award, China Education Society of Electronics
+* 2023 Outstanding Graduate of Heilongjiang Province
+* 2023 Outstanding Graduate of Harbin Institute of Technology 
+* 2022 National Scholarship of Graduate Student 
+* 2022 Internship Scholarships for International Organizations 
 * Outstanding Student of Harbin Institute of Technology (6 times in HIT, 2014-2022)
-* Huawei Scholarship 2021
-* China Scholarship Council 2021
-* Outstanding Graduate of Harbin Institute of Technology 2018
-* Top 10 Students of School of Electronics and Information Engineering 2017
+* 2021 Huawei Scholarship 
+* 2021 China Scholarship Council 
+* 2018 Outstanding Graduate of Harbin Institute of Technology 
+* 2017 Top 10 Students of School of Electronics and Information Engineering 
 * Merit Student of Heilongjiang Province (twice in HIT, 2016-2017)
-* National Scholarship of Undergraduate Student 2016
-* First Class Scholarship of Outstanding Curriculum, 2015
+* 2016 National Scholarship of Undergraduate Student 
+* 2015 First Class Scholarship of Outstanding Curriculum
 
 Professional Services
 ==
