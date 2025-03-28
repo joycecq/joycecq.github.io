@@ -18,6 +18,7 @@ redirect_from:
 
 News
 ==
+* (Mar. 2025) We organized a Special Issue, "Wireless Communications and Networking for Space-Air-Ground Integrated Networks", in [Mobile Networks and Applications](https://link.springer.com/journal/11036/updates/27766146), a top-tier (T1) international journal in the field of information and communications technology.
 * (Jan. 2025) I received the [2024 Excellent Doctoral Thesis Nomination Award by the China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g). 
 * (Dec. 2024) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/abs/2412.17231)", has been submitted to IEEE for possible publication.
 * (Nov. 2024) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been submitted to <font color = "green">Engineering</font> (Q1)
