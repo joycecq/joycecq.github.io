@@ -28,6 +28,7 @@ Professional Services
 ==
 
 * Editor
+  * Guest Editor, Mobile Networks and Applications
   * Youth Editorial Board Member, Journal of Information and Intelligence (JII)
 
 * Conference/Committee Chairs
