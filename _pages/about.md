@@ -18,6 +18,7 @@ redirect_from:
 
 News
 ==
+* (Jun. 2025) We will deliver our tutorial, "[Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2025. See you in Shenyang!
 * (May 2025) I was shortlisted by University Research Committee (URC) Post-doctoral Fellow/Research Assistant Professor Scheme!
 * (Mar. 2025) We organized a Special Issue, "Wireless Communications and Networking for Space-Air-Ground Integrated Networks", in [Mobile Networks and Applications](https://link.springer.com/journal/11036/updates/27766146), a top-tier (T1) international journal in the field of information and communications technology.
 * (Jan. 2025) I received the [2024 Excellent Doctoral Thesis Nomination Award by the China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g). 
