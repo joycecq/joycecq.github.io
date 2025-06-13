@@ -18,7 +18,7 @@ Selected Journals
 ==
 
 1.  \[<font color = "red">arXiv</font>\] **Q. Chen**, X. Chen, K. Huang, "FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks," submitted to IEEE for possible publication. Available: [arXiv](https://arxiv.org/abs/2412.17231).
-2.  \[<font color = "red">arXiv</font>\] **Q. Chen**, Z. Wang, X. Chen, J. Wen, D. Zhou, S. Ji, M. Sheng and K. Huang, "Space-ground Fluid AI for 6G Edge Intelligence," *Engineering*, minor revision. Available: [arXiv](https://arxiv.org/abs/2411.15845).
+2.  \[<font color = "red">Engineering</font>\] **Q. Chen**, Z. Wang, X. Chen, J. Wen, D. Zhou, S. Ji, M. Sheng and K. Huang, "Space-ground Fluid AI for 6G Edge Intelligence," *Engineering*, 2025. Available: [arXiv](https://arxiv.org/abs/2411.15845).
 3.  \[<font color = "red">JIoT</font>\] **Q. Chen**, C. Wu, S. Han, W. Meng and T. Q. S. Quek, "Inter-Satellite Link-Enhanced Transmission Scheme Towards Aviation IoT in SAGIN," *IEEE Internet of Things Journal*, vol. 12, no. 9, pp. 11812-11826, May, 2025. Available: [arXiv](https://arxiv.org/abs/2405.18919).
 4.  \[<font color = "red">COMST</font>\] **Q. Chen**, Z. Guo, W. Meng, S. Han, C. Li and T. Q. S. Quek, "A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN," *IEEE Communications Surveys & Tutorials*, Early Access, doi: 10.1109/COMST.2024.3421523. Available: [arXiv](https://arxiv.org/abs/2403.17400).
 5.  \[<font color = "red">TCOM</font>\] **Q. Chen**, W. Meng, S. Han, C. Li and T. Q. S. Quek, "Coverage Analysis of SAGIN With Sectorized Beam Pattern Under Shadowed-Rician Fading Channels," *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4988-5004, Aug. 2023.
