@@ -18,13 +18,13 @@ redirect_from:
 
 News
 ==
+* (Jun. 2025) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been accepted by <font color = "green">Engineering</font> (Q1)
+ for publication.
 * (Jun. 2025) We will deliver our tutorial, "[Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2025. See you in Shenyang!
 * (May 2025) I was shortlisted by University Research Committee (URC) Post-doctoral Fellow/Research Assistant Professor Scheme!
 * (Mar. 2025) We organized a Special Issue, "Wireless Communications and Networking for Space-Air-Ground Integrated Networks", in [Mobile Networks and Applications](https://link.springer.com/journal/11036/updates/27766146), a top-tier (T1) international journal in the field of information and communications technology.
 * (Jan. 2025) I received the [2024 Excellent Doctoral Thesis Nomination Award by the China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g). 
 * (Dec. 2024) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/abs/2412.17231)", has been submitted to IEEE for possible publication.
-* (Nov. 2024) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been submitted to <font color = "green">Engineering</font> (Q1)
- for possible publication.
 * (Oct. 2024) It's a great honor to have been invited by Journal of Information and Intelligence to give a talk at Xidian University about my Ph.D. work, Theoretical Performance Analysis and Service Scheduling Method of Space-air Integrated Networks!
 * (Sep. 2024) I am honored to be elected as a <font color = "green">Youth Editorial Board Member</font> of the [Journal of Information and Intelligence](https://www.sciencedirect.com/journal/journal-of-information-and-intelligence).
 * (Aug. 2024) I am honored to be the <font color = "green">Publication Chair</font> of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
