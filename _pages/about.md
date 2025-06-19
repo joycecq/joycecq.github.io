@@ -18,6 +18,7 @@ redirect_from:
 
 News
 ==
+* (Jun. 2025) I was awarded Glasgow/HKU Early Career Mobility Funds 2025-26. (Only 12 people received this award in HKU)
 * (Jun. 2025) One first-author paper, "[Space-ground Fluid AI for 6G Edge Intelligence](https://arxiv.org/pdf/2411.15845)", has been accepted by <font color = "green">Engineering</font> (Q1)
  for publication.
 * (Jun. 2025) We will deliver our tutorial, "[Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2025. See you in Shenyang!
