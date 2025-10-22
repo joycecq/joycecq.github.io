@@ -10,6 +10,8 @@ redirect_from:
 Honors and Awards
 ==
 
+* 2025 Glasgow/HKU Early Career Mobility Funds
+* 2025 University Research Committee (URC) Post-doctoral Fellow (PDF)/Research Assistant Professor (RAP) Scheme
 * 2024 Excellent Doctoral Thesis Nomination Award, China Education Society of Electronics
 * 2023 Outstanding Graduate of Heilongjiang Province
 * 2023 Outstanding Graduate of Harbin Institute of Technology 
@@ -55,6 +57,7 @@ Professional Services
   * Engineering
 
 * Conference Paper Reviewers
+  * IEEE Vehicular Technology Conference (VTC'2025 Fall), Chengdu, China, Oct. 2025 
   * IEEE International Conference on Communications (ICC'25), Montreal, Canada, Jun. 2025
   * IEEE/CIC International Conference on Communications in China (ICCC'24), Hangzhou, China, Aug. 2024
   * IEEE International Conference on Communications (ICC'22), Seoul, South Korea, May 2022
