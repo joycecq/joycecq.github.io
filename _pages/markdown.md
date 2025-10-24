@@ -37,6 +37,13 @@ Professional Services
   * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems (WiSATS 2024)
   * Student Chair, IEEE ComSoc Harbin Chapter, 2018-2023
 
+
+* Tutorials/Invited Talks
+  * Towards Intelligent Space-Air-Ground Integrated Networks: Performance Analysis and Federated Learning, University of Glasgow, United Kingdom, 2025
+  * Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning, IEEE International Conference on Communication Technology (ICCT), Shenyang, China, 2025
+  * Federated Learning in Space-ground Integrated Networks, Outstanding PhD Forum of the China Institute of Electronics, Hangzhou, China, 2025
+  * Theoretical Performance Analysis and Service Scheduling Method of Space-air Integrated Networks, Xidian University, Xi’an, China, 2024
+
   
 * Membership in Professional Societies
   * Member, Institute of Electrical and Electronics Engineers (IEEE)
