@@ -59,6 +59,7 @@ Professional Services
   * IEEE Transactions on Communications
   * IEEE Internet of Things Journal
   * IEEE Transactions on Cognitive Communications and Networking
+  * IEEE Transactions on Network Science and Engineering
   * IEEE Transactions on Vehicular Technology
   * IEEE Antennas and Wireless Propagation Letters
   * Engineering
