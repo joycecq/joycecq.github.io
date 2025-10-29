@@ -19,12 +19,12 @@ Research Interests
 ==
 - Networked Distributed AI
   * Federated learning under communication constraints
-  * Edge inference for resource-limited scenario
+  * Edge inference for resource-limited scenarios
   * Model caching for efficient delivery
     
-- Large Language Models
-  * Mixture-of-Experts deployment strategies
-  * Scalable and efficient Mixture-of-Experts inference
+- Large Language Models (LLM)
+  * LLM distributed deployment
+  * Scalable and efficient LLM inference
 
 - Space-air-ground Integrated Networks (SAGIN)
   * Edge intelligence in SAGIN
