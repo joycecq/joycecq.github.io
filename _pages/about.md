@@ -35,7 +35,7 @@ Research Interests
 
 News
 ==
-* (Dec. 2025) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/pdf/2412.17231)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font>.
+* (Dec. 2025) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/pdf/2412.17231)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 * (Jun. 2025) I was awarded Glasgow/HKU Early Career Mobility Funds 2025-26. (Only 12 people received this award in HKU)
 * (Jun. 2025) We will deliver our tutorial, "[Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2025. See you in Shenyang!
 * (May 2025) I was shortlisted by University Research Committee (URC) Post-doctoral Fellow/Research Assistant Professor Scheme! (Only 3 people received this award in HKU EEE)
