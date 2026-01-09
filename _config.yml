@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Qian Chen"
-  avatar           : "Graduate_Qian.JPG"
+  avatar           : "Qian_Chen.jpg"
   bio              : "Postdoctoral Research Fellow"
   location         : "The University of Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BTkccMIAAAAJ&hl=zh-CN&citsig=ADuiNO0wyrepnu1RqTXCB7VeNTc1"
-  email            : "qchen@eee.hku.hk"
+  email            : "qcheneee@hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/qian-chen-a2b03110b/"
   orcid            : #"https://orcid.org/0000-0002-6332-6222"
   pinterest        :
   soundcloud       :
