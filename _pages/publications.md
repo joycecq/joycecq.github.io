@@ -17,7 +17,7 @@ author_profile: true
 Selected Journals
 ==
 
-1.  \[<font color = "red">arXiv</font>\] **Q. Chen**, X. Chen, K. Huang, "SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference," *IEEE Transactions on Mobile Computing*, Minor Revision. Available: [arXiv](https://arxiv.org/abs/2507.06567).
+1.  \[<font color = "red">TMC</font>\] **Q. Chen**, X. Chen, K. Huang, "SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference," to appear in *IEEE Transactions on Mobile Computing*, 2026. Available: [arXiv](https://arxiv.org/abs/2507.06567).
 2.  \[<font color = "red">TMC</font>\] **Q. Chen**, X. Chen, K. Huang, "FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks," to appear in *IEEE Transactions on Mobile Computing*, 2025. Available: [arXiv](https://arxiv.org/abs/2412.17231).
 3.  \[<font color = "red">Engineering</font>\] **Q. Chen**, Z. Wang, X. Chen, J. Wen, D. Zhou, S. Ji, M. Sheng and K. Huang, "Space-ground Fluid AI for 6G Edge Intelligence," *Engineering*, vol. 54, pp. 14-19, Nov. 2025. Available: [arXiv](https://arxiv.org/abs/2411.15845).
 4.  \[<font color = "red">JIoT</font>\] **Q. Chen**, C. Wu, S. Han, W. Meng and T. Q. S. Quek, "Inter-Satellite Link-Enhanced Transmission Scheme Towards Aviation IoT in SAGIN," *IEEE Internet of Things Journal*, vol. 12, no. 9, pp. 11812-11826, May, 2025. Available: [arXiv](https://arxiv.org/abs/2405.18919).
