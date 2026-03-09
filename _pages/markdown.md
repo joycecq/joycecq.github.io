@@ -50,6 +50,7 @@ Professional Services
 * Membership in Professional Societies
   * Member, Institute of Electrical and Electronics Engineers (IEEE)
   * Member, IEEE Communications Society
+  * Member, IEEE Vehicular Technology Society
   * Member, China Education Society of Electronics
   * Member, China Institute of Communications
  
