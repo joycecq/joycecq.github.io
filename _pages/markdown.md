@@ -34,6 +34,8 @@ Professional Services
   * Youth Editorial Board Member, Journal of Information and Intelligence (JII)
 
 * Conference/Committee Chairs
+  * Track Chair,  VTC2026-Spring
+  * Chair, Wireless Networking Symposium, IWCMC 2026
   * Publication Chair, 14th EAI International Conference on Wireless and Satellite Systems (WiSATS 2024)
   * Student Chair, IEEE ComSoc Harbin Chapter, 2018-2023
 
