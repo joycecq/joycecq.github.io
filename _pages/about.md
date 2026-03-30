@@ -51,6 +51,6 @@ News
 
 ---
 
-<i style="font-family: 'Georgia', serif; font-size: 18px; ">A ship in harbor is safe, but that is not what ships are built for.</i>
+<i style="font-family: 'Georgia', serif; font-size: 18px; ">Persist always. Let go anytime.</i>
 
 ---
