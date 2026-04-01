@@ -68,6 +68,7 @@ Professional Services
   * Engineering
 
 * Conference Paper Reviewers
+  * IEEE Vehicular Technology Conference (VTC'2026 Spring), Nice, France, Jun. 2026 
   * IEEE Global Communications Conference (GlobeCom'25), Taiwan, China, Dec. 2025
   * IEEE Vehicular Technology Conference (VTC'2025 Fall), Chengdu, China, Oct. 2025 
   * IEEE International Conference on Communications (ICC'25), Montreal, Canada, Jun. 2025
