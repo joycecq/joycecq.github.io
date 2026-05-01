@@ -46,12 +46,12 @@ News
 * (Jan. 2025) I received the [2024 Excellent Doctoral Thesis Nomination Award by the China Education Society of Electronics](https://mp.weixin.qq.com/s/TpD5AJ6dj7Fzo1zrNceh_g). 
 * (Oct. 2024) It's a great honor to have been invited by Journal of Information and Intelligence to give a talk at Xidian University about my Ph.D. work, Theoretical Performance Analysis and Service Scheduling Method of Space-air Integrated Networks!
 
-<details>
+<details markdown="1">
 <summary>Show more news</summary>
-  
-* (Sep. 2024) I am honored to be elected as a <font color = "green">Youth Editorial Board Member</font> of the [Journal of Information and Intelligence](https://www.sciencedirect.com/journal/journal-of-information-and-intelligence).
-* (Aug. 2024) I am honored to be the <font color = "green">Publication Chair</font> of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
-* (Jun. 2024) One first-author paper, "[A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN](https://arxiv.org/abs/2403.17400)", has been accepted by <font color = "green">IEEE Communications Surveys & Tutorials</font> [[News](https://mp.weixin.qq.com/s/YDpSKFCFTgQp5SDKuP6O0g)] (<font color = "red">IF=46.7, ESI Top 1% Highly Cited Paper, ESI Top 0.1% Hot Paper</font>)
+
+* (Sep. 2024) I am honored to be elected as a <font color="green">Youth Editorial Board Member</font> of the [Journal of Information and Intelligence](https://www.sciencedirect.com/journal/journal-of-information-and-intelligence).
+* (Aug. 2024) I am honored to be the <font color="green">Publication Chair</font> of [EAI WiSATS 2024](https://psats.eai-conferences.org/2024/).
+* (Jun. 2024) One first-author paper, "[A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN](https://arxiv.org/abs/2403.17400)", has been accepted by <font color="green">IEEE Communications Surveys & Tutorials</font> [[News](https://mp.weixin.qq.com/s/YDpSKFCFTgQp5SDKuP6O0g)] (<font color="red">IF=46.7, ESI Top 1% Highly Cited Paper, ESI Top 0.1% Hot Paper</font>)
 
 </details>
 
