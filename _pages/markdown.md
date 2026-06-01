@@ -31,6 +31,8 @@ Professional Services
 
 * Editor
   * Guest Editor, Mobile Networks and Applications
+  * Guest Editor, Journal of Information and Intelligence
+  * Youth Editorial Board Member, Journal of Communications and Information Networks (JCIN)
   * Youth Editorial Board Member, Journal of Information and Intelligence (JII)
 
 * Conference/Committee Chairs
