@@ -60,8 +60,11 @@ Professional Services
   * ACM Computing Surveys
   * IEEE Journal on Selected Areas in Communications
   * IEEE Transactions on Mobile Computing
+  * IEEE Wireless Communications
+  * IEEE Communications Magazine
   * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Communications
+  * IEEE Journal of Selected Topics in Signal Processing
   * IEEE Internet of Things Journal
   * IEEE Transactions on Cognitive Communications and Networking
   * IEEE Transactions on Network Science and Engineering
