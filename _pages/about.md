@@ -35,7 +35,7 @@ Research Interests
 
 News
 ==
-* (May 2026) We will deliver a tutorial, "Towards Autonomous Space-Ground Integration for 6G Networks", at IEEE GLOBECOM 2026. 
+* (May 2026) We will deliver a tutorial, "[Towards Autonomous Space-Ground Integration for 6G Networks](https://globecom2026.ieee-globecom.org/events/tut-09-towards-autonomous-space-ground-integration-6g-networks)", at IEEE GLOBECOM 2026. 
 * (May 2026) We will deliver a tutorial, "[Towards Computation-Efficient NTN: Routing, Scheduling, Slicing and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2026. 
 * (Feb. 2026) One first-author paper, "[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 * (Jan. 2026) We organized a Special Issue, "[Integrated Computing and Networking for SAGIS](https://mp.weixin.qq.com/s/VGiYOxsdtSzfmOM4DfnH5w)", in <font color = "green">Journal of Information and Intelligence</font>.
