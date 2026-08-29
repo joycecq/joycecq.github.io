@@ -40,12 +40,12 @@ News
 * (May 2026) We will deliver a tutorial, "[Towards Autonomous Space-Ground Integration for 6G Networks](https://globecom2026.ieee-globecom.org/events/tut-09-towards-autonomous-space-ground-integration-6g-networks)", at IEEE GLOBECOM 2026. 
 * (May 2026) We will deliver a tutorial, "[Towards Computation-Efficient NTN: Routing, Scheduling, Slicing and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2026. 
 * (Feb. 2026) One first-author paper, "[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
-* (Jan. 2026) We organized a Special Issue, "[Integrated Computing and Networking for SAGIS](https://mp.weixin.qq.com/s/VGiYOxsdtSzfmOM4DfnH5w)", in <font color = "green">Journal of Information and Intelligence</font>.
-* (Dec. 2025) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/pdf/2412.17231)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 
 <details markdown="1">
 <summary>Show more news</summary>
 
+* (Jan. 2026) We organized a Special Issue, "[Integrated Computing and Networking for SAGIS](https://mp.weixin.qq.com/s/VGiYOxsdtSzfmOM4DfnH5w)", in <font color = "green">Journal of Information and Intelligence</font>.
+* (Dec. 2025) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/pdf/2412.17231)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 * (Jun. 2025) I was awarded Glasgow/HKU Early Career Mobility Funds 2025-26. (Only 12 people received this award in HKU)
 * (Jun. 2025) We will deliver a tutorial, "[Towards 6G Intelligence in Space-Ground Integrated Networks: Random Access, Mobility Management, and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2025.
 * (May 2025) I was shortlisted by University Research Committee (URC) Post-doctoral Fellow/Research Assistant Professor Scheme! (Only 3 people received this award in HKU EEE)
