@@ -35,6 +35,8 @@ Research Interests
 
 News
 ==
+* (Aug. 2026) I am honored to be elected as a <font color="green">Youth Editorial Board Member</font> of the [China Communications](http://www.cic-chinacommunications.cn/EN/home).
+* (Jun. 2026) I am honored to be elected as a <font color="green">Youth Editorial Board Member</font> of the [Journal of Communications and Information Networks](https://www.jcin.com.cn/homeNav?lang=en).
 * (May 2026) We will deliver a tutorial, "[Towards Autonomous Space-Ground Integration for 6G Networks](https://globecom2026.ieee-globecom.org/events/tut-09-towards-autonomous-space-ground-integration-6g-networks)", at IEEE GLOBECOM 2026. 
 * (May 2026) We will deliver a tutorial, "[Towards Computation-Efficient NTN: Routing, Scheduling, Slicing and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2026. 
 * (Feb. 2026) One first-author paper, "[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
