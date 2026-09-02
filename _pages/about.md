@@ -17,7 +17,7 @@ redirect_from:
 
 Research Interests
 ==
-- Networked Distributed AI
+- Networked Edge AI
   * Resource-constrained federated learning
   * Edge inference
   * Model caching for efficient delivery
