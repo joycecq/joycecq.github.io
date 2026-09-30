@@ -35,15 +35,16 @@ Research Interests
 
 News
 ==
+* (Sep. 2026) My first-author paper, "[A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN](https://arxiv.org/pdf/2403.17400v3)" was selected for <font color = "green">IEEE ComSoc Best Readings</font> under the topic [Reconfigurable Architectures for Resilient Wireless Systems](https://www.comsoc.org/publications/best-readings/reconfigurable-antennas-reliable-communications).
 * (Aug. 2026) I am honored to be elected as a <font color="green">Youth Editorial Board Member</font> of the [China Communications](http://www.cic-chinacommunications.cn/EN/home).
 * (Jun. 2026) I am honored to be elected as a <font color="green">Youth Editorial Board Member</font> of the [Journal of Communications and Information Networks](https://www.jcin.com.cn/homeNav?lang=en).
 * (May 2026) We will deliver a tutorial, "[Towards Autonomous Space-Ground Integration for 6G Networks](https://globecom2026.ieee-globecom.org/events/tut-09-towards-autonomous-space-ground-integration-6g-networks)", at IEEE GLOBECOM 2026. 
 * (May 2026) We will deliver a tutorial, "[Towards Computation-Efficient NTN: Routing, Scheduling, Slicing and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)", at IEEE ICCT 2026. 
-* (Feb. 2026) One first-author paper, "[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 
 <details markdown="1">
 <summary>Show more news</summary>
 
+* (Feb. 2026) One first-author paper, "[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 * (Jan. 2026) We organized a Special Issue, "[Integrated Computing and Networking for SAGIS](https://mp.weixin.qq.com/s/VGiYOxsdtSzfmOM4DfnH5w)", in <font color = "green">Journal of Information and Intelligence</font>.
 * (Dec. 2025) One first-author paper, "[FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks](https://arxiv.org/pdf/2412.17231)", has been accepted by <font color = "green">IEEE Transactions on Mobile Computing</font> (CCF A).
 * (Jun. 2025) I was awarded Glasgow/HKU Early Career Mobility Funds 2025-26. (Only 12 people received this award in HKU)
