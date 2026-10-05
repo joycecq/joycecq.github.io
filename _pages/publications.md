@@ -17,7 +17,7 @@ author_profile: true
 Selected Journals
 ==
 
-1.  \[<font color = "red">arXiv</font>\] **Q. Chen**, X. Chen, M. Sheng, K. Huang, "SpaceMoE: Towards Orbital General Intelligence with Distributed Mixture-of-Experts Inference," submitted to IEEE for possible publication, 2026. (Available: [arXiv](https://arxiv.org/abs/2605.16849))
+1.  \[<font color = "red">arXiv</font>\] **Q. Chen**, X. Chen, M. Sheng, K. Huang, "SpaceMoE: Towards Orbital General Intelligence with Distributed Mixture-of-Experts Inference," *IEEE Communications Magazine*, major revision. (Available: [arXiv](https://arxiv.org/abs/2605.16849))
 2.  \[<font color = "red">arXiv</font>\] **Q. Chen**, X. Chen, K. Huang, "SiftMoE: Similarity-Aware Energy-Efficient Expert Selection for Wireless Distributed MoE Inference," *IEEE Transactions on Mobile Computing*, major revision. (Available: [arXiv](https://arxiv.org/abs/2603.23888))
 3.  \[<font color = "red">TMC</font>\] **Q. Chen**, X. Chen, K. Huang, "SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference," *IEEE Transactions on Mobile Computing*, vol. 25, no. 7, pp. 10924-10938, Jul. 2026. (Available: [arXiv](https://arxiv.org/abs/2507.06567))
 4.  \[<font color = "red">TMC</font>\] **Q. Chen**, X. Chen, K. Huang, "FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks," *IEEE Transactions on Mobile Computing*, vol. 25, no. 6, pp. 8221-8234, Jun. 2026. (Available: [arXiv](https://arxiv.org/abs/2412.17231))
